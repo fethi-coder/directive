@@ -1,0 +1,25 @@
+
+.block{
+    height: 500px;
+}
+
+.titre{
+    align-items: center;
+    text-align: center;
+    margin-left: 20px;
+    width: 500px;
+    height: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+li{
+    text-align: center;
+    list-style: none;
+    background-color: rgba($color: #e9e3e3, $alpha: 1.0);
+}
